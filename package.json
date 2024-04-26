@@ -11,7 +11,7 @@
   "dependencies": {
     "@baselime/node-opentelemetry": "^0.2.10",
     "@baselime/react-rum": "^0.2.5",
-    "next": "14.0.1",
+    "next": "14.2.3",
     "pino": "^8.16.1",
     "react": "^18",
     "react-dom": "^18"
